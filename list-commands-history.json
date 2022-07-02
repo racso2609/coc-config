@@ -3,12 +3,45 @@
     "sn"
   ],
   "L2hvbWUvcmFjc28vV29yay9DdWIzL21pbnQzZC9taW50M2QtYXBpL3NyYy91dGlscw==": [
-    "spell"
+    "spell",
+    "esl"
   ],
   "L2hvbWUvcmFjc28vUHJvZ3JhbW1pbmcvSnMvbWFuYWdlLXNhbGFyeS9tYW5hZ2Utc2FsYXJ5LWZyb250L25hdmlnYXRpb24=": [
     "cs"
   ],
   "L2hvbWUvcmFjc28vLmNvbmZpZy9udmltL2x1YQ==": [
     "comm"
+  ],
+  "L2hvbWUvcmFjc28vV29yay9DdWIzL2ozdHBhY2svajN0cGFjay1hcGkvZnVuY3Rpb25zL3NyYw==": [
+    "esl"
+  ],
+  "L2hvbWUvcmFjc28vV29yay9DdWIzL2ozdHBhY2svcGluYXRhLWZ1bmN0aW9uL2Z1bmN0aW9ucw==": [
+    "es"
+  ],
+  "L2hvbWUvcmFjc28vV29yay9DdWIzL2ozdHBhY2svajN0cGFjay1hcGkvZnVuY3Rpb25zL3NyYy91dGlscw==": [
+    "pree",
+    "eslin",
+    "eslint"
+  ],
+  "L2hvbWUvcmFjc28vV29yay93b29rb25nL1dvY29vbi9zcmMvYXBwL3NoYXJlZC9zZXJ2aWNlcw==": [
+    "esl"
+  ],
+  "L2hvbWUvcmFjc28vV29yay9DdWIzL2FzdG9yLWFwaQ==": [
+    "pre",
+    "esl",
+    "comm"
+  ],
+  "L2hvbWUvcmFjc28vV29yay93b29rb25nL1dvY29vbi9mdW5jdGlvbnMvc3Jj": [
+    "prett",
+    "esl"
+  ],
+  "L2hvbWUvcmFjc28vV29yay9DdWIzL2FzdG9yLWFwaS9wcm90by9hc3NldHMvdjE=": [
+    "prett",
+    "esl",
+    ":q",
+    "proto"
+  ],
+  "L2hvbWUvcmFjc28vV29yay9DdWIzL2FzdG9yLWFwaS9mdW5jdGlvbnMvc3Jj": [
+    "eslint"
   ]
 }
